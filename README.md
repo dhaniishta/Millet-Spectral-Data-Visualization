@@ -27,3 +27,13 @@ The following datasets (Excel format) are required:
 > **Note:** All datasets should have wavelength in the first column and reflectance values in the subsequent columns.
 
 ---
+
+## Example Plots
+
+### Individual Plot Example
+![Kodo Millet Spectrum](kodo_spectrum.png)
+
+### Combined Plot Example
+![All Millet Spectra](all_millets_spectrum.png)
+
+---
